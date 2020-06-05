@@ -21,9 +21,10 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 * Electronic knowledge
 
 ## Equipment
-* Arduino Uno
+* Arduino Uno 
+(https://store.arduino.cc/arduino-uno-rev)
 <img src="https://github.com/bibeul/ougadayoti/blob/master/images/arduino.jpg" alt="Arduino" width="250"/>
-https://store.arduino.cc/arduino-uno-rev
+
 
 * distance sensor
 * LED
