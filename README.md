@@ -38,7 +38,7 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 
 <img src="https://github.com/bibeul/ougadayoti/blob/master/images/Piezo.jpg" alt="piezo" width="250"/>
 
-* [Bluetooth modul](https://fr.rs-online.com/web/p/modules-bluetooth/1372666?cm_mmc=FR-PLA-DS3A-_-google-_-PLA_FR_FR_Informatique_et_p%C3%A9riph%C3%A9riques_Whoop-_-(FR:Whoop!)+Modules+Bluetooth-_-1372666&matchtype=&pla-336144535860&gclid=CjwKCAjw2uf2BRBpEiwA31VZj8_qQlAIyU_zEOB8shHnmLw_JR53OVtGz9kVxmDW08HAeW7yUe6WkRoCtsEQAvD_BwE&gclsrc=aw.ds)
+* [Bluetooth modul](https://www.gotronic.fr/art-module-bluetooth-hc05-26097.htm)
 
 <img src="https://github.com/bibeul/ougadayoti/blob/master/images/bluetooth.jpg" alt="bluetooth" width="250"/>
 
