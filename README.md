@@ -1,4 +1,4 @@
-#  Ceinture AntiZouk Dayoti
+#  The AntiZouk belt by Dayoti
 
 ## Liens
 Lien Drive : https://drive.google.com/drive/folders/1vNkkd7SH6A8LC7Ekvl3pmWBgK3bTT0kN?usp=sharing
