@@ -22,6 +22,8 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 
 ## Equipment
 * Arduino Uno
+https://store.arduino.cc/arduino-uno-rev3
+
 * distance sensor
 * LED
 * Buzzer
