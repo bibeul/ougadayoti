@@ -28,7 +28,7 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 
 * [Distance sensor](https://www.mouser.fr/ProductDetail/Parallax/28015?qs=Re%252Bcz0%2FMYCKqvqZW3g9mzg%3D%3D&vip=1&gclid=CjwKCAjw2uf2BRBpEiwA31VZj6M7wPsa8aJG65B0WxpsVTgLrExCFl03J_LCnrLFMPf_0MWwhJZ-ahoC6MAQAvD_BwE)
 
-<img src="https://github.com/bibeul/ougadayoti/blob/master/images/sensor.jpg" alt="sensor" width="250"/>
+<img src="https://github.com/bibeul/ougadayoti/blob/master/images/sensor.png" alt="sensor" width="250"/>
 
 * [LED NeoPixel](https://boutique.semageek.com/fr/471-bande-de-led-neopixel-strip-de-60-led-rgb-noire-1m.html)
 
