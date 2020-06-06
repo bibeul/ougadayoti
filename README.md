@@ -66,7 +66,7 @@ For the realisation in Tinkercar some componant were absente. So we replace the 
 
 ### TinkerCad
 
-Lien : https://www.tinkercad.com/things/lArx3qOdrAT-circuit-1/editel?sharecode=OMoUMoGGCARuNeI17nDEebbXyY4c4ymbxXOozA99Qk8
+Lien : https://www.tinkercad.com/things/lArx3qOdrAT
 
 ![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/circuit.JPG)
 
