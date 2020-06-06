@@ -52,6 +52,10 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 
 ### Adaptation
 
+For the realisation in Tinkercar some componant were absente. So we replace the blueThoot modul with a Wifi modul and the payment terminal with the LCD screen.
+
 ### TinkerCad
 
-https://www.tinkercad.com/things/iBM7D5u6Ry6
+Lien : https://www.tinkercad.com/things/iBM7D5u6Ry6
+
+![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/circuit.JPG)
