@@ -13,7 +13,17 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 * Damien Capron
 
 ## Presentation
+The AntiZouk belt is a device that allow you to move freely while protecting yourself from crazy zouker by taking their money, either in public transportation or in crowded party or festival.
 
+Thanks to the application, you can link your bank account to the belt, and each time someone try to zouk with you, it will take some of it's money from it's credit card or phone application (for the one with it allowed).
+You can set how much you want to take each time you get zouked.
+
+There is also a alerting systeme with LEDs and Buzzers that helps to tell surrounding people that you are in danger.
+
+Futur premium version will have those features :
+- Gaz dispenser
+- Grappling hook
+- Taser
 
 ## Prerequisite
 * IOT knowledge
