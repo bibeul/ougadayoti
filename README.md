@@ -46,7 +46,12 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 
 <img src="https://github.com/bibeul/ougadayoti/blob/master/images/sumup.jpg" alt="sumup" width="250"/>
 
-## Application
+## Application Mobil
 
 ## Tinkercad modelisation
+
+### Adaptation
+
+### TinkerCad
+
 https://www.tinkercad.com/things/iBM7D5u6Ry6
