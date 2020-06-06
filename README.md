@@ -46,7 +46,7 @@ Lien google doc : https://docs.google.com/document/d/1KB-gM5Kf2jFi-FMn0EAIxj2vqS
 
 <img src="https://github.com/bibeul/ougadayoti/blob/master/images/sumup.jpg" alt="sumup" width="250"/>
 
-## Application Mobil
+
 
 ## Tinkercad modelisation
 
@@ -59,3 +59,9 @@ For the realisation in Tinkercar some componant were absente. So we replace the 
 Lien : https://www.tinkercad.com/things/iBM7D5u6Ry6
 
 ![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/circuit.JPG)
+
+## Application Mobil
+
+## Prototypage
+
+![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/prototype.png)
