@@ -62,6 +62,18 @@ Lien : https://www.tinkercad.com/things/iBM7D5u6Ry6
 
 ## Application Mobil
 
+On the first screen you can synchronization your belt and add your IBAN
+
+![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/appli3.png)
+
+The second one appears when the synchronization succeeded
+
+![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/appli2.png)
+
+Last but not least you can desactivate the belt or press the alert button
+
+![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/appli1.png)
+
 ## Prototypage
 
 ![alt text](https://github.com/bibeul/ougadayoti/blob/master/images/prototype.png)
